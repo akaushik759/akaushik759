@@ -40,5 +40,4 @@
 - 🔥 Firebase
 
 
-
-[![Abhishek's Github stats](https://github-readme-stats.vercel.app/api?username=akaushik759&theme=blue-green)](https://github.com/akaushik759/github-readme-stats)
+[![Abhishek's Github stats](https://github-readme-stats.vercel.app/api?username=akaushik759&theme=tokyonight)](https://github.com/akaushik759/github-readme-stats)
