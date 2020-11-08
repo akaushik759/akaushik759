@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Kaushik</h1>
+<h3 align="center">I write code to bring my ideas to reality or sometimes just to squat bugs</h3>
 
-<!--
-**akaushik759/akaushik759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for Fulltime job as a Backend Developer/Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages I know :
+
+- 🐍 Python
+- 🏷️Javascript
+- 🐈 C
+- 🌋 Java
+- 🔍 SQL
+- 🦴 HTML & CSS
+
+---
+
+### Technologies I have worked with :
+
+- ⚗️ Flask-Python
+- ☋ NodeJS
+- 🥾 Bootstrap
+- 🙏 JQuery
+- 🚄 Express
+- 🔌 SocketIO
+
+---
+
+### Miscellaneous : 
+
+- 🐋 Docker
+- 🤝 Git
+- 💽 Ubuntu
+- 🖼️ Heroku
+- 🔥 Firebase
+
+
+
+[![Abhishek's Github stats](https://github-readme-stats.vercel.app/api?username=akaushik759&theme=blue-green)](https://github.com/akaushik759/github-readme-stats)
