@@ -20,6 +20,15 @@
 
 ---
 
+### Databases I have messed with :
+
+- 🐵 MongoDB
+- 📋 MySQL
+- 🗒️ PostgreSQL
+- 🍎 Redis
+
+---
+
 ### Technologies I have worked with :
 
 - ⚗️ Flask-Python
