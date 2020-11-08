@@ -3,6 +3,8 @@
 
 ### About Me :
 
+- ❤️ I am passionate about startups
+- 🧰 I love brainstorming algorithms
 - 🔭 I’m currently looking for Fulltime job as a Backend Developer/Software Engineer
 
 ---
